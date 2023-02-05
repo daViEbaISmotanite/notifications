@@ -1,4 +1,4 @@
-const DB = [
+const DB = ["kyoto_yoko",
     "raru_mi",
     "karina_reid",
     "Elena_best",
@@ -224,5 +224,12 @@ const DB = [
     "AlmaFire",
     "catsara",
     "juanasnz99",
-    "crystalmoon___"
+    "crystalmoon___",
+    "LoveMisha",
+    "Bailey_Rush",
+    "cute_ariel",
+    "gigi_333",
+    "Letycia",
+    "AriannaNolan",
+    "Mia_Split_Show"
 ];
